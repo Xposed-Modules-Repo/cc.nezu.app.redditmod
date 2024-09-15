@@ -1,4 +1,4 @@
-package com.example.template.hook
+package cc.nezu.app.redditmod.hook
 
 abstract class BaseHook {
     abstract fun init()

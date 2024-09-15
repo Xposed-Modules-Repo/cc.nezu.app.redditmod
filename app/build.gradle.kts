@@ -6,10 +6,10 @@ plugins {
 android {
     compileSdk = 34
 
-    namespace = "com.example.template"
+    namespace = "cc.nezu.app.redditmod"
 
     defaultConfig {
-        applicationId = "com.example.template"
+        applicationId = "cc.nezu.app.redditmod"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

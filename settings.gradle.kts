@@ -15,5 +15,4 @@ dependencyResolutionManagement {
 }
 
 include(":app")
-rootProject.name = "EzXHepler-template"
-
+rootProject.name = "RedditMod - Disable Reddit Update Nag"
