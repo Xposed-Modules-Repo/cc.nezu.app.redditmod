@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RedditMod</string>
+    <string name="xposed_desc">Disable Reddit Update Nag</string>
+</resources>
